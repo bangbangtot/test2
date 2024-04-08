@@ -3,3 +3,5 @@ Script no 2
 Script no 3
 Script no 4
 Script no 5
+Script no 6
+Script no 7
